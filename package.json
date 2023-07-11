@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@typescript-eslint/parser": "^1.10.2"
+    "@typescript-eslint/parser": "^6.0.0"
   },
   "devDependencies": {
     "@angular/compiler": "^7.2.0",
@@ -35,6 +35,6 @@
     "zone.js": "^0.9.0"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "^1.10.2"
+    "@typescript-eslint/parser": "^6.0.0"
   }
 }
